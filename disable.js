@@ -54,7 +54,7 @@ td, th {
   transition: .4s;
 }
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #352b2d;
 }
 input:focus + .slider {
   box-shadow: 0 0 1px #2196F3;
